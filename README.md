@@ -8,6 +8,6 @@ You can visit my site here https://theazurian.z33.web.core.windows.net/
 
 I worked on the frontend using html and css, set up a storage account and enabled static site hosting on the container, this has taught me how to make use of storage accounts and setting up of DNS and CDN. 
 
-![image](https://user-images.githubusercontent.com/73601265/222102223-0ba6b50b-eea5-4115-b489-716c9aadc484.png)
+<img src=https://user-images.githubusercontent.com/73601265/222102223-0ba6b50b-eea5-4115-b489-716c9aadc484.png width="150" height="280">
 
 
